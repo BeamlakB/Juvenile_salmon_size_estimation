@@ -1,6 +1,6 @@
 # Juvenile Salmon Size Estimation
 
-This code was refred to in my thesis published here: link
+This code was referred to in my theses published here: link
 
 This is the workflow for estimating juvenile salmon size using stereo camera data from ZED recordings.  
 ## Project overview
