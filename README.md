@@ -1,6 +1,6 @@
 # Juvenile Salmon Size Estimation
 
-Simple workflow for estimating juvenile salmon size using stereo camera data from ZED recordings.
+A workflow for estimating juvenile salmon size using stereo camera data from ZED recordings.
 
 ## Project overview
 
