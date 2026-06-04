@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 from PIL import Image, ImageEnhance
 import itertools
 import random
-from PATH import Path
+from pathlib import Path
 import os
 
 #enhance image 
