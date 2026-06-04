@@ -1,7 +1,8 @@
 # Juvenile Salmon Size Estimation
 
-Simple workflow for estimating juvenile salmon size using stereo camera data from ZED recordings.
+This code was refred to in my thesis published here: link
 
+This is the workflow for estimating juvenile salmon size using stereo camera data from ZED recordings.  
 ## Project overview
 
 - `extract_data/` processes ZED `.svo` source files and extracts image data.
